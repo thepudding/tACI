@@ -34,12 +34,12 @@
         </style>
     </head>
     <body style="text-align:center;background-image: url('../assets/Norclod3.jpg');">
-        <img alt="this is a header banner" src="../assets/AnimeClub-logo_BleachStyle.jpg">
+        <img alt="this is a header banner"
+             src="../assets/AnimeClub-logo_BleachStyle.jpg">
         <table>
             <tr>
                 <td id="sidebar">
                     <img id="home" src="../assets/Home.png" href="index.html">
-                       
                     </div>
                     <div id="forum">
                         Club Officer Forum
@@ -52,14 +52,10 @@
                     </div>
                 </td>
                 <td id="sidebar-border">
-                    
                 </td>
                 <td id="content">
-                    About flavor text etc.
-                    <hr>
-                    Updates
+                    {{.Content}}
                 </td>
-                
             </tr>
         </table>
         home | Club Officer Forum | Guestbook | Members
