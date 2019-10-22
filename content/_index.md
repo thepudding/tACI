@@ -35,4 +35,4 @@ Halloween entry
 ---
 
 ## 10-25-06
-OMGWTFBBQ!!!oneone I am very excited to announce that because everyone in the club has pooled together their resouces the club has been able to purchase something very special.... it's .... are you ready? .... It's .... A Dragon Ball Z Volume One Box set ......... signed by SEAN SCHEMMEL HIMSELF!!!! *_*
+OMGWTFBBQ!!!oneone I am very excited to announce that because everyone in the club has pooled together their resouces the club has been able to purchase something very special.... it's .... are you ready? .... It's .... A Dragon Ball Z Volume One Box set ......... signed by SEAN SCHEMMEL HIMSELF!!!! *_* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
