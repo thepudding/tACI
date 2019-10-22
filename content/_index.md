@@ -31,6 +31,9 @@ Can't wait to see you all there! Go Bobcats! ^____^
 
 ## 10-30-06
 Halloween entry
+Example Image:
+
+![Example image](assets/MichaelGoku.gif)
 
 ---
 
