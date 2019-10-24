@@ -4,11 +4,13 @@ date: 11-14-2005
 ---
 
 # Jeffery Miller
-## semperubisububi@hotmail.com
+semperubisububi@hotmail.com
 
 ## Education
 West Morris High School
  - Expected graduation date: Spring 2007
+ 
+##Academic Achievements
 
 ## Extra Curricular Activities:
 
