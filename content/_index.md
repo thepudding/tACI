@@ -2,8 +2,8 @@
 title: Home Page Title
 date: 11-14-2005
 ---
+Konnichiwa! This is the website for The West Morris High School Anime Club! We welcome everyone regardless of age, creed, race or favorite anime. If you'd like to join our little club, please contact me, Michael, at kamehameha_bob88@hotmail.com
 
-# Home Page
 ## 11-14-06
 Due to the unfortunate events of the last week, the West Morris High Anime Club is officially closed. Jeffery, please tell your mom we will no longer be needing the ride to the bowling alley next week as all our future club activities have been cancelled. I will be leaving this page up for posterity.
 
