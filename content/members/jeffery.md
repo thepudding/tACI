@@ -1,10 +1,9 @@
 ---
-title: Forum Page Title
-date: 11-14-2005
+title:Jeffery Miller
+date: 09-04-2005
 ---
 
-Hello, my name is Jeffery Miller and I am the Secretary of the West Morris High Anime Club. I have been an enthusiast of Japanese animation for many years, and my favorite anime films and television shows include Akira, Ghost in the Shell, and Perfect Blue. In addition to anime, my interests include speech and debate, foreign lanuages, aviation, track and field and radio technology.
-
+Hello, my name is Jeffery Miller and have been the Secretary of the West Morris High Anime Club since it was founded by my longtime friend, Michael Liu, in mid 2005. I have been an enthusiast of Japanese animation for many years, and my favorite anime films and television shows include Akira, Ghost in the Shell, and Perfect Blue. In addition to anime, my interests include speech and debate, foreign lanuages, aviation, track and field, and radio technology.
 
 ## Education
 West Morris High School
@@ -17,6 +16,7 @@ West Morris High School
  - 1995 - 1999
  
 ## Academic Achievements
+- 3.9 GPA
 - Received a score of 5 on the AP US History exam, 2005
 - Received The National Latin Exam Gold Medal and summa cum laude, 2005
 
