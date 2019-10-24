@@ -39,17 +39,11 @@
         <table>
             <tr>
                 <td id="sidebar">
-                    <img id="home" src="assets/WestMorrisAnime.jpg" href="index.html">
-                    </div>
-                    <div id="forum">
-                        Club Officer Forum
-                    </div>
-                    <div id="guestbook">
-                        Guestbook
-                    </div>
-                    <div id="members">
-                        Members
-                    </div>
+                    {{ range .Site.Menus.main  }}
+                    <a href="{{ .URL }}">
+                        <img id="{{.Identifier}}" src="assets/{{ .Identifier }}.png">
+                    </a>
+                    {{ end }}
                 </td>
                 <td id="sidebar-border">
                 </td>

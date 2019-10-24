@@ -2,3 +2,29 @@ baseURL = "thepudding.github.io/tACI/"
 languageCode = "en-us"
 title = "The Anime Club Incident"
 publishDir = "docs"
+
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 3
+
+    [[menu.main]]
+    identifier = "forum"
+    name       = "Forum"
+    url        = "/forum"
+    weight     = 2
+
+    [[menu.main]]
+    identifier = "guestbook"
+    name       = "Guestbook"
+    url        = "/guestbook"
+    weight     = 1
+
+    [[menu.main]]
+    identifier = "members"
+    name       = "Members"
+    url        = "/members"
+    weight     = 0
