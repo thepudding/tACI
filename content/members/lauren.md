@@ -12,6 +12,6 @@ With the magical powers of the internet, however, sampling new anime is made eas
 I love drawing and hope to become a mangaka one day! Here are some of my drawings. Please go easy on me, I'm still learning! >.<;;
 
 ## <3 <3 <3
-
+(images go here)
 
 Anyway, hajishimashite. =\_~ Let's meet again!
