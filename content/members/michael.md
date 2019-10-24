@@ -7,11 +7,23 @@ Hi, I'm Michael Liu, the President and Founding Member of the West Morris High S
 
 I bet you can't guess what my favorite anime is. \*Looks around\* Oh wait maybe you can. XD I also have a fursona I'm developing. He's still a work in progress though so don't judge him too harshly. ^^;; I also have a passion for writing and am developing various fan fiction stories that I'm going to post here! Eventually. When I get around to it. >\_>()
 
+---
+
 ## Fan Fiction
 - Coming soon!
-`&nbsp;`
-`&nbsp;`
-`&nbsp;`
-`&nbsp;`
-`&nbsp;`
+
+## More Pictures of my Fursona
+
+---
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp;
+
+&nbsp;
+
 Also, you just lost the game.
