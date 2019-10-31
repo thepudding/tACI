@@ -52,6 +52,10 @@
                 </td>
             </tr>
         </table>
-        home | Club Officer Forum | Guestbook | Members
+        <footer>
+            {{ range .Site.Menus.main  }}
+                <a href="{{ .URL }}">{{.Identifier}}</a> | 
+            {{ end }}
+        </footer>
     </body>
 </html>
