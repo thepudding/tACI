@@ -4,9 +4,12 @@
         <style>
          body, #content {
              text-align: center;
+             width: 800px;
          }
          #content {
              background-color: white;
+             border: solid #29abe2;
+             border-radius: 10px;
          }
          table {
              width: 100%;
@@ -31,31 +34,39 @@
              background-image: url("../assets/sakura2.gif");
              background-repeat: repeat-y;
          }
+            footer {
+                text-align: center;
+            }
         </style>
     </head>
-    <body style="text-align:center;background-image: url('assets/CloudBG.jpg');">
+    <body style="text-align:center;background-image: url('assets/CloudBG.png');">
         <img alt="this is a header banner"
-             src="assets/AnimeClub-logo_BleachStyle.jpg">
+             src="assets/WestMorrisAnime.jpg">
         <table>
             <tr>
                 <td id="sidebar">
                     {{ range .Site.Menus.main  }}
                     <a href="{{ .URL }}">
-                        <img id="{{.Identifier}}" src="assets/{{ .Identifier }}.png">
+                        <img id="{{.Identifier}}" src="assets/{{ .Identifier }}.png"
+                             onmouseover="this.src='assets/{{ .Identifier }}Inverted.png'"
+                             onmouseout="this.src='assets/{{ .Identifier }}.png'">
                     </a>
                     {{ end }}
-                </td>
-                <td id="sidebar-border">
                 </td>
                 <td id="content">
                     {{.Content}}
                 </td>
             </tr>
-        </table>
+            <tr>
+                <td></td>
+                <td>
         <footer>
             {{ range .Site.Menus.main  }}
                 <a href="{{ .URL }}">{{.Identifier}}</a> | 
             {{ end }}
         </footer>
+                </td>
+            </tr>
+            </table>
     </body>
 </html>

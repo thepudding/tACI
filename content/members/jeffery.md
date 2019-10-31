@@ -1,5 +1,5 @@
 ---
-title:Jeffery Miller
+title: Jeffery Miller
 date: 09-04-2005
 ---
 

@@ -9,7 +9,7 @@ publishDir = "docs"
     identifier = "home"
     name       = "Home"
     url        = "/"
-    weight     = 3
+    weight     = 1
 
     [[menu.main]]
     identifier = "forum"
@@ -21,10 +21,10 @@ publishDir = "docs"
     identifier = "guestbook"
     name       = "Guestbook"
     url        = "/guestbook"
-    weight     = 1
+    weight     = 3
 
     [[menu.main]]
     identifier = "members"
     name       = "Members"
     url        = "/members"
-    weight     = 0
+    weight     = 4
