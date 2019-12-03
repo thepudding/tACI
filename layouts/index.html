@@ -48,7 +48,7 @@
                     {{ range .Site.Menus.main  }}
                     <a href="{{ .URL }}">
                         <img id="{{.Identifier}}" src="assets/{{ .Identifier }}.png"
-                             onmouseover="this.src='assets/{{ .Identifier }}Inverted.png'"
+                             onmouseover="this.src='assets/{{ .Identifier }}_inverted.png'"
                              onmouseout="this.src='assets/{{ .Identifier }}.png'">
                     </a>
                     {{ end }}
