@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+         body, #content {
+             text-align: center;
+             width: 800px;
+         }
+         #content {
+             background-color: white;
+             border: solid #29abe2;
+             border-radius: 10px;
+         }
+         table {
+             width: 100%;
+         }
+         td {
+             vertical-align:top;
+         }
+         #sidebar {
+             width: 100px;
+         }
+         hr {
+             width: 50%;
+         }
+         #sidebar div {
+             width: 100px;
+             height:70px;
+             border: 2px solid blue;
+             margin-bottom: 10px;
+         }
+         #sidebar-border {
+             width:64px;
+             background-image: url("{{ .Site.BaseURL }}images/sakura2.gif");
+             background-repeat: repeat-y;
+         }
+         footer {
+             text-align: center;
+         }
+        </style>
+    </head>
+    <body style="text-align:center;background-image: url('{{ .Site.BaseURL }}images/CloudBG.png');">
+        <img alt="this is a header banner"
+             src="{{ .Site.BaseURL }}images/WestMorrisAnime.jpg">

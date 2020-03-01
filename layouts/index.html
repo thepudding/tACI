@@ -1,72 +1,8 @@
-<html>
-    <head>
-        <title></title>
-        <style>
-         body, #content {
-             text-align: center;
-             width: 800px;
-         }
-         #content {
-             background-color: white;
-             border: solid #29abe2;
-             border-radius: 10px;
-         }
-         table {
-             width: 100%;
-         }
-         td {
-             vertical-align:top;
-         }
-         #sidebar {
-             width: 100px;
-         }
-         hr {
-             width: 50%;
-         }
-         #sidebar div {
-             width: 100px;
-             height:70px;
-             border: 2px solid blue;
-             margin-bottom: 10px;
-         }
-         #sidebar-border {
-             width:64px;
-             background-image: url("../assets/sakura2.gif");
-             background-repeat: repeat-y;
-         }
-            footer {
-                text-align: center;
-            }
-        </style>
-    </head>
-    <body style="text-align:center;background-image: url('assets/CloudBG.png');">
-        <img alt="this is a header banner"
-             src="assets/WestMorrisAnime.jpg">
-        <table>
-            <tr>
-                <td id="sidebar">
-                    {{ range .Site.Menus.main  }}
-                    <a href="{{ .URL }}">
-                        <img id="{{.Identifier}}" src="assets/{{ .Identifier }}.png"
-                             onmouseover="this.src='assets/{{ .Identifier }}_inverted.png'"
-                             onmouseout="this.src='assets/{{ .Identifier }}.png'">
-                    </a>
-                    {{ end }}
-                </td>
-                <td id="content">
-                    {{.Content}}
-                </td>
-            </tr>
-            <tr>
-                <td></td>
-                <td>
-        <footer>
-            {{ range .Site.Menus.main  }}
-                <a href="{{ .URL }}">{{.Identifier}}</a> | 
-            {{ end }}
-        </footer>
-                </td>
-            </tr>
-            </table>
-    </body>
-</html>
+{{ partial "header.html" . }}
+{{ partial "sidebar.html" . }}
+
+<td id="content">
+    {{.Content}}
+</td>
+
+{{ partial "footer.html" . }}

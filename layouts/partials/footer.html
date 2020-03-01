@@ -1,0 +1,14 @@
+</tr>
+<tr>
+    <td></td>
+    <td>
+        <footer>
+            {{ range .Site.Menus.main  }}
+            <a href="{{ .URL }}">{{.Identifier}}</a> | 
+            {{ end }}
+        </footer>
+    </td>
+</tr>
+            </table>
+    </body>
+</html>
