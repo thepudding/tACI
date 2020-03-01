@@ -1,0 +1,37 @@
+<html>
+    <head></head>
+    <body>
+        <h1>West Morris High Anime Club</h1>
+        <form>
+            Login: 
+            <label for="name"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username" name="name" required>
+            <label for="pass"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="pass" required>
+        </form>
+        <button>back to main site</button>
+        <table id="posts" style="width:100%;border-style:solid;">
+            <th>
+                <td>
+                    Topics
+                </td>
+                <td>
+                    Replies
+                </td>
+                <td>
+                    Views
+                </td>
+                <td>
+                    Last Post
+                </td>
+            </th>
+            {{ range .Pages }}
+            <tr>
+                <td> <a href="{{.Permalink}}">{{.Title}}</a></td>
+                <td>{{.Date.Format "2006-01-02"}}</td>
+                <td>{{ .Params.author }}</td>
+            </tr>
+            {{ end }}
+        </table>
+    </body>
+</html>
