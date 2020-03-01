@@ -1,4 +1,4 @@
-baseURL = "thepudding.github.io/tACI/"
+baseURL = "https://thepudding.github.io/tACI/"
 languageCode = "en-us"
 title = "The Anime Club Incident"
 publishDir = "docs"
